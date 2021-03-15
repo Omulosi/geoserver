@@ -1,0 +1,16 @@
+<layer>
+  <name>ke_regions</name>
+  <id>LayerInfoImpl--3898f7df:1781cbe843a:-7ffe</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3898f7df:1781cbe843a:-7fff</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-03-11 05:20:35.30 UTC</dateCreated>
+</layer>

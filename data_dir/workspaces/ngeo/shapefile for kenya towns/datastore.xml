@@ -1,0 +1,24 @@
+<dataStore>
+  <id>DataStoreInfoImpl-af8ad73:1781797c0eb:-7ff2</id>
+  <name>shapefile for kenya towns</name>
+  <type>Directory of spatial files (shapefiles)</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-af8ad73:1781797c0eb:-7fff</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="charset">ISO-8859-1</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="memory mapped buffer">false</entry>
+    <entry key="timezone">Africa/Nairobi</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="namespace">ngeo</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="url">file:///home/jp/Desktop/shapefiles/major_towns</entry>
+    <entry key="fstype">shape</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2021-03-10 03:47:49.908 UTC</dateCreated>
+  <dateModified>2021-03-10 10:18:31.949 UTC</dateModified>
+</dataStore>

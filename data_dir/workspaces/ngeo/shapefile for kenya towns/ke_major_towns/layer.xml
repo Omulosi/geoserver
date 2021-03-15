@@ -1,0 +1,17 @@
+<layer>
+  <name>ke_major_towns</name>
+  <id>LayerInfoImpl-af8ad73:1781797c0eb:-7ff0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-af8ad73:1781797c0eb:-7ff1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-03-10 03:48:13.804 UTC</dateCreated>
+  <dateModified>2021-03-11 05:17:00.651 UTC</dateModified>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>user_projects</name>
+  <id>LayerInfoImpl--3898f7df:1781cbe843a:-7ff9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3898f7df:1781cbe843a:-7ffa</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-03-11 07:31:03.681 UTC</dateCreated>
+  <dateModified>2021-03-11 07:41:16.604 UTC</dateModified>
+</layer>

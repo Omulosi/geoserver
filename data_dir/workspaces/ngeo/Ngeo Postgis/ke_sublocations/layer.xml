@@ -1,0 +1,16 @@
+<layer>
+  <name>ke_sublocations</name>
+  <id>LayerInfoImpl--3898f7df:1781cbe843a:-7ffc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3898f7df:1781cbe843a:-7ffd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-03-11 05:22:21.175 UTC</dateCreated>
+</layer>
